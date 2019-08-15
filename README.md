@@ -1,4 +1,4 @@
-# Project Title
+# Graphics Coursework 1: Racing Game
 This is my Graphics 1 Coursework, it is a simple car game where there is a start and finish line, there is a player car and a basic AI car.
 
 
